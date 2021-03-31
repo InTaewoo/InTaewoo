@@ -1,5 +1,6 @@
-### Hi there 👋
+### Hi there my name is InTaewoo👋
 
+My major is Applied Statistics, i study data engineer
 <!--
 **InTaewoo/InTaewoo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

@@ -1,6 +1,12 @@
 ### Hi there my name is InTaewoo👋
 
 My major is Applied Statistics, i study data engineer
+
+:star: Career
+| Type                | Date              | Contents                             | Organization       |
+|---------------------|-------------------|--------------------------------------|--------------------|
+| Education           | 2014.3 ~ 2021.2   | Department of Applied Statistics     | Kyonggi University |
+
 <!--
 **InTaewoo/InTaewoo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

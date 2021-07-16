@@ -1,6 +1,6 @@
-### Hi there my name is InTaewoo👋
+### Hi  my name is InTaewoo👋
 
-My major is Applied Statistics, i study data engineer
+My major is Applied Statistics, i study data engineer !
 
 :star: Career :star:
 | Type                | Date              | Contents                             | Organization       |

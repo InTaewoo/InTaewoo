@@ -4,8 +4,9 @@ My major is Applied Statistics, i study data engineer !
 
 :star: Career :star:
 | Type                | Date              | Contents                             | Organization       |
-|---------------------|-------------------|--------------------------------------|--------------------|
+|:---:|:---:|:---:|:---:|
 | Education           | 2014.3 ~ 2021.2   | Department of Applied Statistics     | Kyonggi University |
+| Education           | 2021.5 ~ 2021.10   | K-Digital Data Scientist & Data Engineering|MultiCampus |
 
 <!--
 **InTaewoo/InTaewoo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

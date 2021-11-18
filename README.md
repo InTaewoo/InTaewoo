@@ -6,7 +6,6 @@
 <h3 align="center">My major is Applied Statistics, i study data engineer !</h3>
 
 
-
 :star: Career :star:
 | Type                | Date              | Contents                             | Organization       |
 |:---:|:---:|:---:|:---:|

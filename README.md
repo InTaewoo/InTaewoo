@@ -11,6 +11,7 @@
 |:---:|:---:|:---:|:---:|
 | Education           | 2014.3 ~ 2021.2   | Department of Applied Statistics     | Kyonggi University |
 | Education           | 2021.5 ~ 2021.10   | K-Digital Data Scientist & Data Engineering|MultiCampus |
+| work           | 2021.11 ~    | company |DataSolution|
 
 
 
